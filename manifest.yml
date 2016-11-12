@@ -1,6 +1,6 @@
 ---
 applications:
-- name: webchatbot
+- name: sky-mobile-002
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
